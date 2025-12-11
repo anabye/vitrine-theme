@@ -1,4 +1,4 @@
-import{a as D}from"./chunk-TSTOX2EJ.js";import{a as C,b as S}from"./chunk-QWEEXONV.js";import"./chunk-UXIT64FR.js";import{a as p}from"./chunk-UZANZAJW.js";import{Ac as O,Da as E,Ea as u,Na as l,Nc as g,Rc as h,V as s,Wc as f,Ya as o,Yf as x,Za as t,_a as d,cd as v,lg as b,sa as m,xa as M,xb as e,xd as c}from"./chunk-4CT7PI5G.js";var A=(()=>{class i{constructor(a){this.sharedService=a,this.commandDoc1=`export const <NOME-MODULO>Submenu: Array<PoMenuItem> = [
+import{a as D}from"./chunk-S7NWXDLP.js";import{a as C,b as S}from"./chunk-QWEEXONV.js";import"./chunk-XAR6NSCW.js";import{a as p}from"./chunk-UZANZAJW.js";import{Ac as O,Da as E,Ea as u,Na as l,Nc as g,Rc as h,V as s,Wc as f,Ya as o,Yf as x,Za as t,_a as d,cd as v,lg as b,sa as m,xa as M,xb as e,xd as c}from"./chunk-4CT7PI5G.js";var A=(()=>{class i{constructor(a){this.sharedService=a,this.commandDoc1=`export const <NOME-MODULO>Submenu: Array<PoMenuItem> = [
   {
     label: '<NOME-APLICA\xC7\xC3O>',
     subItems: [
